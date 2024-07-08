@@ -120,3 +120,6 @@ Help Center:
 Search bar to find help articles.
 Categorized list of FAQs and guides.
 Option to submit a support ticket or start a live chat.
+
+# Basic Structure 
+<br> A full-stack web application to track income, expenses, and savings goals : React for the front-end, Node.js for the back-end, and MongoDB for the database
